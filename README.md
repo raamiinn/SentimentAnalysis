@@ -46,15 +46,15 @@ Both datasets have been collected directly from the web, so they may contain htm
 
 # Required data files
 
-  ○ generic_tweets.txt: classified Twitter data containing a set of tweets which have been analyzed and scored for their sentiment
+  generic_tweets.txt: classified Twitter data containing a set of tweets which have been analyzed and scored for their sentiment
 
-  ○ US_airline_tweets.txt: Twitter data containing a set of tweets from 2015 on the US airlines, which needs to be analyzed for this assignment
+  US_airline_tweets.txt: Twitter data containing a set of tweets from 2015 on the US airlines, which needs to be analyzed for this assignment
   
-  ○ The data files cannot be altered by any means. The IPython Notebooks will be run using local versions of these data files.
+  The data files cannot be altered by any means. The IPython Notebooks will be run using local versions of these data files.
   
-  ○ corpus.txt: corpus containing a set of words and their associated sentiment values
+  corpus.txt: corpus containing a set of words and their associated sentiment values
   
-  ○ stop_words.txt: file containing an extensive list of stop words
+  stop_words.txt: file containing an extensive list of stop words
 
 
 
